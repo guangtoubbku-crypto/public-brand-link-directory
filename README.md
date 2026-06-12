@@ -16,7 +16,7 @@ Generated static GitHub Pages site.
 2. Open repository `Settings` > `Pages`.
 3. Choose `Deploy from a branch`.
 4. Select branch `main` and folder `/docs`.
-5. Save and open: https://your-github-user.github.io/public-brand-link-directory/
+5. Save and open: https://guangtoubbku-crypto.github.io/public-brand-link-directory/
 
 ## Generated summary
 
