@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://your-github-user.github.io/public-brand-link-directory/sitemap.xml
