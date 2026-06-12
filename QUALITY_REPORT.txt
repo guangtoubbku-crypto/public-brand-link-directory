@@ -1,6 +1,6 @@
 Quality check
 =============
 
-- OK: No basic quality warnings.
+- WARNING: This page has more than 25 external links. Consider splitting by brand/topic so the page is not just a link list.
 
 Manual review still required before publishing.
