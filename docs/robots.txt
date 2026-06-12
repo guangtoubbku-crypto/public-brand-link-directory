@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://your-github-user.github.io/public-brand-link-directory/sitemap.xml
+Sitemap: https://guangtoubbku-crypto.github.io/public-brand-link-directory/sitemap.xml
